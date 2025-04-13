@@ -40,8 +40,8 @@
 
 ## Roadmap
 
-- [x] Token verification on BscScan  
-- [x] Community launched (Telegram & Twitter)  
+- [x] Community launched (Telegram & Twitter)
+- [ ] Token verification on BscScan    
 - [ ] DEX Launch  
 - [ ] CoinMarketCap/CoinGecko listing  
 - [ ] DAO governance
