@@ -1,4 +1,6 @@
-<img src="robi_banner.png" alt="ROBI Banner" width="100%" />
+<p align="center">
+  <img src="ROBI_IMAGE.png" alt="ROBI Banner" width="100%" />
+</p>
 
 # ROBI Project
 
