@@ -1,16 +1,23 @@
-## Hi there 👋
+# ROBI Project
 
-<!--
-**LUKKASPIF/LUKKASPIF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of ROBI — the meme token on BNB Chain.
 
-Here are some ideas to get you started:
+We are building a fair, decentralized and fun Web3 culture powered by memes, community energy, and transparent technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About ROBI
+
+- Name: ROBI  
+- Symbol: $ROBI  
+- Chain: BNB Chain (BSC)  
+- Launch: Fair launch, no presale, locked team tokens  
+- Website: [https://robi.it.com](https://robi.it.com)  
+- Whitepaper: [View Whitepaper](https://robi.it.com/whitepaper.pdf)
+
+## Community
+
+- [Telegram](https://t.me/robiarmy)  
+- [Twitter](https://x.com/ROBI_BNBChain)
+
+## Contact
+
+- Email: info@robi.it.com
