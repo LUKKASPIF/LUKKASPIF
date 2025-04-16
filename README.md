@@ -29,12 +29,11 @@
 ---
 
 ## Tokenomics
-
 - Total Supply: 1,000,000,000 $ROBI  
-- 50% — Liquidity  
-- 20% — Community & Airdrops  
-- 20% — Development  
-- 10% — Marketing
+- 70% — Community & Fair Launch  
+- 15% — Marketing & Partnerships  
+- 10% — Team (Locked with vesting)  
+- 5% — Reserve & Future Development
 
 ---
 
