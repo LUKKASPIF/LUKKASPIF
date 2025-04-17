@@ -4,70 +4,52 @@
 
 # ROBI — Meme Token on BNB Chain
 
-**Welcome to the official GitHub of ROBI** — the meme token built on the BNB Chain, powered by community, humor, and decentralized technology.
+ROBI is a meme token built on the BNB Chain. It has no financial value and is designed for fun, culture, and community experimentation in Web3.
 
----
+## Mission & Purpose
 
-## About ROBI
+The goal of ROBI is to unite people around decentralization, creativity, and open participation. It’s a community token — not a utility or investment — created to empower engagement through memes, social movements, and shared values.
 
-- **Name:** ROBI  
-- **Symbol:** $ROBI  
-- **Chain:** BNB Chain (BSC)  
-- **Launch:** Fair launch, no presale, locked team tokens  
-- **Website:** [https://robi.it.com](https://robi.it.com)
+## Token Information
 
----
-
-## Features
-
-- Verified smart contract on BscScan  
-- Active community on Telegram and X (Twitter)  
-- Community-driven meme culture  
-- Transparent tokenomics and development roadmap  
-- Web3-focused vision with potential DAO integration  
-
----
+- Name: ROBI  
+- Symbol: $ROBI  
+- Chain: BNB Chain (BEP-20)  
+- Launch Date: April 7, 2025  
+- Contract: [Insert contract address]
 
 ## Tokenomics
-- Total Supply: 1,000,000,000 $ROBI  
-- 70% — Community & Fair Launch  
-- 15% — Marketing & Partnerships  
-- 10% — Team (Locked with vesting)  
-- 5% — Reserve & Future Development
 
----
+| Allocation            | Percentage | Notes                             |
+|-----------------------|------------|------------------------------------|
+| Community & Airdrops  | 70%        | Meme campaigns, giveaways, events |
+| Marketing             | 15%        | Awareness & growth efforts         |
+| Team (Locked)         | 10%        | Transparent & verifiable           |
+| Reserve               | 5%         | For future use                     |
 
 ## Roadmap
 
-- [x] Community launched (Telegram & Twitter)
-- [ ] Token verification on BscScan    
-- [ ] DEX Launch  
-- [ ] CoinMarketCap/CoinGecko listing  
-- [ ] DAO governance
-
----
+- Token verification on BscScan  
+- Community growth on X (Twitter)  
+- Launch on DEX  
+- Listings on CoinGecko and CoinMarketCap  
+- Potential community governance via DAO  
 
 ## Team
 
-ROBI is managed by Luka Voronko and a community of Web3 builders.  
-We believe in the future of decentralized, fun, and transparent blockchain projects.  
+The project is led by Luka Voronko (Founder).  
+LinkedIn: [Luka Voronko](https://www.linkedin.com/in/luka-voronko-016121360/)  
+The rest of the contributors are anonymous and support the project in development and creative roles.
 
----
+## Resources
 
-## Whitepaper
+- Website: [https://robi.it.com](https://robi.it.com)  
+- Whitepaper: [Read Whitepaper](https://robi.it.com/whitepaper.pdf)  
+- BscScan Token: [View on BscScan](https://bscscan.com/token/insert_token_address)  
+- Twitter: [@ROBI_BNBChain](https://x.com/ROBI_BNBChain)  
+- Telegram: [t.me/robiarmy](https://t.me/robiarmy)  
+- GitHub: [github.com/LUKKASPIF](https://github.com/LUKKASPIF)
 
-Read our whitepaper: [View PDF](https://robi.it.com/whitepaper.pdf)
+## Disclaimer
 
----
-
-## Community Links
-
-- [Telegram](https://t.me/robiarmy)  
-- [Twitter (X)](https://x.com/ROBI_BNBChain)  
-- [Website](https://robi.it.com)  
-- [GitHub Site](https://github.com/LUKKASPIF/robi-site)
-
----
-
-> This is a meme project created for fun and community engagement.  
-> Not financial advice. DYOR.
+ROBI is not a financial instrument. It is a community meme token with no expectation of profit or utility. Use at your own risk.
